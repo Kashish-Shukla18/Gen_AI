@@ -1,0 +1,9 @@
+# LangChain
+langchain
+langchain-core
+
+# Mistral AI
+langchain-mistralai
+
+# Environment Variables
+python-dotenv
