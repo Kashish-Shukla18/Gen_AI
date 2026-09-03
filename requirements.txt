@@ -7,3 +7,7 @@ langchain-mistralai
 
 # Environment Variables
 python-dotenv
+
+# Local Hugging Face embeddings
+sentence-transformers
+numpy
