@@ -11,3 +11,6 @@ python-dotenv
 # Local Hugging Face embeddings
 sentence-transformers
 numpy
+
+# UI
+streamlit
